@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Miguel!
 
-<!--
-**miguel-oliveira-git/miguel-oliveira-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento web.  
+Tenho experiência em projetos acadêmicos em **Python, PHP, JavaScript** e **bancos de dados MySQL**.  
 
-Here are some ideas to get you started:
+🚀 Atualmente estou focado em desenvolvimento back-end e criando projetos práticos misturando paixôes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologias e ferramentas
+- **Linguagens:** Python, PHP, JavaScript  
+- **Banco de dados:** MySQL  
+- **Ferramentas:** Git, GitHub.
+ 
+
+
+### 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueloliveiraj/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/migui_oliveira/)
+
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguel-oliveira-git&show_icons=true&theme=dracula)
