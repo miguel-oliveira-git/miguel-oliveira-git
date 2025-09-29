@@ -11,10 +11,10 @@ Tenho experiência em projetos acadêmicos em **Python, PHP, JavaScript** e **ba
 - **Ferramentas:** Git, GitHub.
  
 
-
 ### 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueloliveiraj/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/migui_oliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/migueloliveiraj/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/migui_oliveira/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel-jardim@hotmail.com)
 
 
 ### 📊 GitHub Stats
