@@ -8,7 +8,7 @@ Tenho experiência em projetos acadêmicos em **Python, PHP, JavaScript** e **ba
 ### 🔧 Tecnologias e ferramentas
 - **Linguagens:** Python, PHP, JavaScript  
 - **Bibliotecas:** React
-- **Framewors:** Express  
+- **Frameworks:** Express  
 - **Banco de dados:** MySQL  
 - **Ferramentas:** Git, GitHub.
  
