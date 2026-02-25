@@ -29,5 +29,5 @@ Página com cadastro e portfólio usando React.
 ---
 
 ## 📫 Contato
-🔗 LinkedIn: <seu-link-aqui>  
-📧 Email: <seu-email-aqui>
+🔗 LinkedIn: https://www.linkedin.com/in/migueloliveiraj/  
+📧 Email: miguel-jardim@hotmail.com
