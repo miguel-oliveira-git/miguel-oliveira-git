@@ -7,10 +7,11 @@
 ---
 
 ## 🛠 Tecnologias
-**Back-End:** Python | Node.js  
-**Banco de Dados:** MySQL  
-**Front-End:** HTML, CSS, JavaScript, React
-**Ferramentas:** Git, GitHub
+
+- **Back-End:** Python | Node.js  
+- **Banco de Dados:** MySQL  
+- **Front-End:** HTML, CSS, JavaScript, React  
+- **Ferramentas:** Git, GitHub
 
 ---
 
