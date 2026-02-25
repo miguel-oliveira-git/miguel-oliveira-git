@@ -9,7 +9,7 @@
 ## 🛠 Tecnologias
 **Back-End:** Python | Node.js  
 **Banco de Dados:** MySQL  
-**Front-End:** HTML, CSS, JavaScript  
+**Front-End:** HTML, CSS, JavaScript, React
 **Ferramentas:** Git, GitHub
 
 ---
@@ -19,12 +19,12 @@
 ### 📌 **Sensor Ventilador**
 Medidor de temperatura com acionamento de ventilador automático.  
 🛠 Python | sensores  
-🔗 → *Veja no repositório*
+🔗 → https://github.com/miguel-oliveira-git/sensor-Ventilador
 
 ### 📌 **MyClubFC**
 Página com cadastro e portfólio usando React.  
 🛠 React | JavaScript
-
+🔗 → https://github.com/miguel-oliveira-git/MyClubFC
 
 ---
 
