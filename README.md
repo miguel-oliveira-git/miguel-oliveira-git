@@ -15,7 +15,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e trabalho na **OmniSa
 React · JavaScript · HTML5 · CSS3
 
 **Back-end e dados**  
-C# · Python · Node.js · APIs REST · MySQL ·
+C# · Python · Node.js · MySQL
 
 **Ferramentas**  
 Git · GitHub · Excel
@@ -24,20 +24,15 @@ Git · GitHub · Excel
 
 ## ⭐ Projetos em destaque
 
-### 💻 TechOM
-Projeto de desenvolvimento web com foco em uma experiência moderna, responsiva e bem estruturada.
-
-**Tecnologias:** React · HTML5 · CSS3 · JavaScript
-
 ### 🛍️ [Blunt](https://www.blunt.omnisaas.com.br/)
 Projeto web desenvolvido com atenção à interface, responsividade e usabilidade.
 
 **Tecnologias:** React · HTML5 · CSS3 · JavaScript
 
-### 🧾 [Sião Contabilidade](https://github.com/miguel-oliveira-git/Siao-Contabilidade)
-Landing page desenvolvida para o escritório Sião Contabilidade, com foco em apresentação profissional e experiência de navegação.
+### 💻 TechOM
+Projeto de desenvolvimento web com foco em uma experiência moderna, responsiva e bem estruturada.
 
-**Tecnologias:** HTML · CSS · JavaScript
+**Tecnologias:** React · HTML5 · CSS3 · JavaScript
 
 ### ⚽ [My Club FC](https://github.com/miguel-oliveira-git/MyClubFC)
 Aplicação web desenvolvida em colaboração, com listagem e cadastro de times de futebol, navegação dinâmica e componentes reutilizáveis.
